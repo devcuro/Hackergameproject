@@ -1,0 +1,4 @@
+Level 1: Attack failed. -1 life.
+Level 2: Attack failed. -1 life.
+Level 3: Success! +10 points.
+Game Over. Final Score: 10, Lives: 1
